@@ -15,5 +15,5 @@ Jesse Beard
  
 Role in project: co-programmer/teamleader 
  
-Preferred branch of engineering: mechanical or electrical
+Preferred branch of engineering: mechanical or electrical.
  
